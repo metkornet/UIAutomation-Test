@@ -1,0 +1,11 @@
+C:\Users\mkorn\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\mkorn\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\mkorn\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\mkorn\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\mkorn\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\mkorn\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\mkorn\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\mkorn\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.manifest
+C:\Users\mkorn\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.application
+C:\Users\mkorn\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe.manifest
+C:\Users\mkorn\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.application
